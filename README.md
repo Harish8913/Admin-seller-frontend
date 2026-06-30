@@ -126,18 +126,6 @@ dist/
 
 ---
 
-# Preview Production Build
-
-To preview the production build locally:
-
-```bash
-npm run preview
-```
-
-This serves the contents of the `dist` folder locally.
-
----
-
 # Available Scripts
 
 | Command | Description |
